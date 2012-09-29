@@ -49,6 +49,11 @@ aaaa
 
 testestes
 
+
 COmitando na branch criada em 1
  
+
+Trabalhando localmente com a branch work que esta associada à branch nova_bench
+
+
 Tubaina
