@@ -30,7 +30,7 @@ Conflito - Head - master .. nome da branch
 
 Merge sempre fica resgistrado na branch que estou trabalhando
 
+
 checkout - pode voltar para outra versão.
-Aqui vai comecar o texto (verificando conflito)
-Aqui vai comecar o texto (verificando conflito)
+
 Tubaina
