@@ -6,4 +6,13 @@ luiz-real@caelum.com.br
 Criar repositorio - create repository here
 Commit- commit > master 
 
+hash - identificação dos commits
 
+Verificar alterações - menu tortoise - show log
+comparar arquivos - compare with base (dentro do show log) 
+Mudar o commit anterior - amend Last commit (usar antes de enviar para o servidor remoto
+
+Tags - 
+
+
+Tubaina
