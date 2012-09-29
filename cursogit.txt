@@ -18,8 +18,8 @@ Não adicionar arquivos - Tortoise git - add to ignore list ( colocar arquivo sem
 
 Head - Commit atual.
 
-Branchs - 
-
+Branchs -  create branch - apenas cria a branch.
+Trabalhando na branch criada - Tortoise git switch/checkout
 
 
 Tubaina
