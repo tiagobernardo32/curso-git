@@ -20,6 +20,7 @@ Head - Commit atual.
 
 Branchs -  create branch - apenas cria a branch.
 Trabalhando na branch criada - Tortoise git switch/checkout
+ 
 
 
 Tubaina
