@@ -18,6 +18,8 @@ Não adicionar arquivos - Tortoise git - add to ignore list ( colocar arquivo sem
 
 Head - Commit atual.
 
+Colocando linha intrusa
+
 Branchs - 
 
 
