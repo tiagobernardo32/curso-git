@@ -33,4 +33,17 @@ Merge sempre fica resgistrado na branch que estou trabalhando
 
 checkout - pode voltar para outra versão.
 
+Criando mais um pouco de texto.
+
+Criar repositorio ou clone .
+Criar uma branch
+checkout para a branch criada
+commits
+checkout para master
+pull
+rebase
+merge
+push
+volta em nova branch
+
 Tubaina
