@@ -21,7 +21,16 @@ Head - Commit atual.
 
 Branchs -  create branch - apenas cria a branch.
 Trabalhando na branch criada - Tortoise git switch/checkout
- 
+
+A master nao enxerga a branch - mas a branch enxerga a master (ate o momento da criação da branch).
+
+Juntando as branch - merge. escolhe a branch.
+
+Conflito - Head - master .. nome da branch 
+
+Merge sempre fica resgistrado na branch que estou trabalhando
+
+checkout - pode voltar para outra versão.
 
 
 Tubaina
