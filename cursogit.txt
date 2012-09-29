@@ -1,7 +1,7 @@
 Workshop Git.
 
 
-luiz-real@caelum.com.br
+luiz.real@caelum.com.br
 
 Criar repositorio - create repository here
 Commit- commit > master 
@@ -12,7 +12,14 @@ Verificar alterações - menu tortoise - show log
 comparar arquivos - compare with base (dentro do show log) 
 Mudar o commit anterior - amend Last commit (usar antes de enviar para o servidor remoto
 
-Tags - 
+Tags - Tortoise git - create tag
+
+Não adicionar arquivos - Tortoise git - add to ignore list ( colocar arquivo sem acentuacao)
+
+Head - Commit atual.
+
+Branchs - 
+
 
 
 Tubaina
