@@ -57,3 +57,11 @@ Trabalhando localmente com a branch work que esta associada à branch nova_bench
 
 
 Tubaina
+
+
+Exercicio com varios usuarios.
+
+1 - Clonar o repositorio e commitar algo. - OK
+2  - No seu repositorio, trabalhe.
+3 - Atualizar o master com o commit do seu colega
+4 sincroniza e push
